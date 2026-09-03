@@ -79,6 +79,3 @@ ping 192.168.1.xxx
 If everything is configured properly, you should receive a ping response 🎉.
 
 ---
-
-## 📜 License
-This project isn't released under the **MIT License**.😄
